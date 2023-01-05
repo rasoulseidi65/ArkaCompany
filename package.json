@@ -15,7 +15,7 @@
     "core-js": "^3.4.4",
     "jquery": "^3.4.1",
     "material-dashboard": "^2.1.0",
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.15.8",
     "vee-validate": "^3.2.5",
     "vue": "^2.6.10",
     "vue-ckeditor2": "^2.1.5",
@@ -27,7 +27,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
     "@vue/cli-plugin-eslint": "^4.1.0",
-    "@vue/cli-service": "^4.1.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-eslint": "^10.0.3",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
